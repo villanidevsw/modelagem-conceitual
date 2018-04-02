@@ -1,0 +1,7 @@
+****modelagem conceitual****
+
+no diagrama de classe de uma modelagem conceitual
+apenas se coloca os dados que serao necessarios
+serem armazenados no banco.
+
+este foi o "erro" da minha resolucao
